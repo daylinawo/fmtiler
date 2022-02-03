@@ -1,0 +1,27 @@
+[GENERAL_SETTINGS]
+EditorName=FM Tiler
+ScreenWidth=1920
+ScreenHeight=1080
+FullScreen=0
+[TEXTURE_PICKER_SETTINGS]
+BackgroundImage=Assets/Images/Backgrounds/TilePickerBg_140x600.png
+Width=140
+Height=600
+Alignment=2
+ButtonSize=32
+[GRID_SETTINGS]
+Rows=14
+Columns=14
+TileSize=32
+GutterSize=0
+DefaultTextureID=0
+[TEXTURES]
+0=Assets\Images\Textures\default.png
+1=Assets\Images\Textures\brownrock.png
+2=Assets\Images\Textures\redrock.png
+3=Assets\Images\Textures\emerald.png
+4=Assets\Images\Textures\sapphire.png
+5=Assets\Images\Textures\ruby.png
+6=Assets\Images\Textures\lava.png
+7=Assets\Images\Textures\wall.png
+8=Assets\Images\Textures\door.png
